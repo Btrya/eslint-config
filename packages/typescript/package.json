@@ -1,6 +1,6 @@
 {
   "name": "@btrya/eslint-config-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@btrya/eslint-config-basic": "^0.0.2",
+    "@btrya/eslint-config-basic": "^0.0.3",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0"
   }
