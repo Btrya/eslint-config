@@ -1,13 +1,16 @@
 {
-  "name": "eslint-config",
+  "name": "@btrya/eslint-config",
   "version": "0.0.1",
   "description": "quick to use Btrya's eslint-config, minimal configuration but supports custom configuration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean -y && rm -rf node_modules",
+    "release": "lerna publish --conventional-commits -y"
   },
   "author": "Btrya",
-  "license": "ISC",
+  "keywords": ["lerna", "eslint"],
+  "license": "MIT",
   "private": "true",
   "workspaces": [
     "packages/*"

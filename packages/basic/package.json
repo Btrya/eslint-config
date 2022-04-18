@@ -10,7 +10,7 @@
     "eslint-config"
   ],
   "author": "Btrya <cbtrya@foxmail.com> (https://github.com/Btrya)",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
