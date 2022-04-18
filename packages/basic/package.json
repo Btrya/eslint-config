@@ -11,6 +11,9 @@
   ],
   "author": "Btrya <cbtrya@foxmail.com> (https://github.com/Btrya)",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-eslint-comments": "^3.2.0",
