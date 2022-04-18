@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-btrya-prettier",
+  "name": "eslint-config-prettier",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",

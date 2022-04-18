@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-btrya-all",
-  "version": "0.0.0",
+  "name": "eslint-config-all",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
