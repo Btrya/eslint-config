@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-btrya",
+  "name": "eslint-config",
   "version": "0.0.0",
   "description": "quick to use Btrya's eslint-config, minimal configuration but supports custom configuration",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "private": "true",
   "workspaces": [
-    "package/*"
+    "packages/*"
   ],
   "devDependencies": {
     "lerna": "^4.0.0"

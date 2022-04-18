@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "Btrya <cbtrya@foxmail.com> (https://github.com/Btrya)",
+  "license": "ISC",
+  "dependencies": {
+    "@btrya/eslint-config-react": "^0.0.0",
+    "@btrya/eslint-config-vue": "^0.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0"
+  }
 }
