@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-typescript",
+  "name": "@btrya/eslint-config-ts",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
