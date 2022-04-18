@@ -1,6 +1,6 @@
 {
   "name": "eslint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "quick to use Btrya's eslint-config, minimal configuration but supports custom configuration",
   "main": "index.js",
   "scripts": {
