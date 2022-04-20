@@ -1,6 +1,6 @@
 # @btrya/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=00bfff&label=)](https://npmjs.com/package/@btrya/eslint-config)
+[![npm](https://img.shields.io/npm/v/@btrya/eslint-config?color=00bfff&label=)](https://npmjs.com/package/@btrya/eslint-config)
 
 ## Usage
 
