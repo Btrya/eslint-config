@@ -15,7 +15,6 @@
     "access": "public"
   },
   "dependencies": {
-    "eslint-config-standard": "^16.0.3",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.26.0",
