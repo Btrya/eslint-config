@@ -8,15 +8,15 @@
 
 ```bash
 # all
-npm install @btrya/eslint-config --save-dev
+npm install eslint @btrya/eslint-config --save-dev
 # for JS
-npm install @btrya/eslint-config-basic --save-dev
+npm install eslint @btrya/eslint-config-basic --save-dev
 # for TS
-npm install @btrya/eslint-config-ts --save-dev
+npm install eslint @btrya/eslint-config-ts --save-dev
 # for Vue + TS
-npm install @btrya/eslint-config-vue --save-dev
+npm install eslint @btrya/eslint-config-vue --save-dev
 # for React + TS
-npm install @btrya/eslint-config-react --save-dev
+npm install eslint @btrya/eslint-config-react --save-dev
 ```
 
 ### Config `.eslintrc`
